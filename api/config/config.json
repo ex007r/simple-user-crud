@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "splroot_",
-    "database": "user_db",
+    "username": "USERNAME_DB",
+    "password": "PASSWORD_DB",
+    "database": "DATABASE_NAME",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
